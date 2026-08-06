@@ -14,15 +14,15 @@
 
 ## macOS
 
-brew install python@3.10 → git clone https://github.com/YOUR-USERNAME/Spark26.git → cd Spark26 → python3 -m venv venv → source venv/bin/activate → pip install --upgrade pip → pip install -r requirements.txt → python main_app.py
+brew install python@3.10 → git clone https://github.com/timadevarduino/Spark26.git → cd Spark26 → python3 -m venv venv → source venv/bin/activate → pip install --upgrade pip → pip install -r requirements.txt → python main_app.py
 
 ## Windows (PowerShell)
 
-git clone https://github.com/YOUR-USERNAME/Spark26.git → cd Spark26 → python -m venv venv → venv\Scripts\Activate.ps1 → python -m pip install --upgrade pip → pip install -r requirements.txt → python main_app.py
+git clone https://github.com/timadevarduino/Spark26.git → cd Spark26 → python -m venv venv → venv\Scripts\Activate.ps1 → python -m pip install --upgrade pip → pip install -r requirements.txt → python main_app.py
 
 ## Linux (Ubuntu/Debian)
 
-sudo apt update → sudo apt install python3.10 python3.10-venv python3-pip git ffmpeg -y → git clone https://github.com/YOUR-USERNAME/Spark26.git → cd Spark26 → python3.10 -m venv venv → source venv/bin/activate → pip install --upgrade pip → pip install -r requirements.txt → python main_app.py
+sudo apt update → sudo apt install python3.10 python3.10-venv python3-pip git ffmpeg -y → git clone https://github.com/timadevarduino/Spark26.git → cd Spark26 → python3.10 -m venv venv → source venv/bin/activate → pip install --upgrade pip → pip install -r requirements.txt → python main_app.py
 
 # 📱 Compatibility
 
